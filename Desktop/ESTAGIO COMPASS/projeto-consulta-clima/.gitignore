@@ -1,9 +1,0 @@
-# Excluir a pasta .vscode
-.vscode/
-
-# Excluir a pasta node_modules
-node_modules/
-
-# Excluir os arquivos package.json e package-lock.json
-package.json
-package-lock.json
